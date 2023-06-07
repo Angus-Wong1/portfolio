@@ -117,7 +117,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "https://docs.google.com/document/d/e/2PACX-1vQekPLGPmtQsdyWCaPK_E6iH32QbBV0sMd8ovu17AlPYP5HvWa8s75Q-ORpF7-MQnJoZIQ9u_8IIUyD/pub"
       download: true
       newPage: false
     socialLinks:
