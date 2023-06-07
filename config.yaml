@@ -109,7 +109,7 @@ params:
     intro: "Hello, my name is"
     title: "Angus."
     subtitle: "Analytics, Software, Business Growth"
-    content: "Data Scientist with expertise in analytics, software development, and driving business growth through data-driven insights and advanced data solutions."
+    content: "Computer Scientist with expertise in analytics, software development, and driving business growth through data-driven insights and advanced data solutions."
     image: /images/me.png
     bottomImage:
       enable: true
