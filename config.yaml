@@ -141,10 +141,10 @@ params:
       title: "Here are a few technologies I've been working with recently:"
       items:
         - "Python"
-        - "PostgreSQL"
+        - "SQL Family"
         - "Rust"
-        - "Unix (Debian)"
-        - "Power BI"
+        - "Unix (Debian, Arch)"
+        - "PowerBI"
         - "C/C++"
       # Experience
   experience:
@@ -162,9 +162,9 @@ params:
         content: |
           At AGC, I implemented an effective PostgreSQL-based data management system, enhancing efficiency. My use of machine learning techniques facilitated significant business growth. With Python and Power BI, I improved data efficiency and promoted strategic decisions. My leadership boosted business performance and product value.
 
-          - Lead developer 
-          - PowerBI/Business Intelligence 
-          - Data Analytics
+          - Python (Numpy, Pandas, Pytorch,TensorFlow)
+          - Business Intelligence (PowerBI)
+          - Data Analytics (Matplotlib)
           - Machine Learning
 
 
@@ -177,7 +177,6 @@ params:
           url: "https://example.com"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
         content: |
           As a dedicated computer science mentor, I successfully guided and supported over hundred students in their learning journey. Specializing in Python, C, and C++, I provided tailored lessons and integrated innovative digital solutions, resulting in a remarkable 95% satisfaction rate. Through effective communication of complex technical concepts, I witnessed a significant 90% improvement in students' understanding.
 
