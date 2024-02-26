@@ -151,10 +151,10 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Software Developer"
-        company: "AGC Group"
-        companyUrl: "https://agc.com"
-        date: "Sep 2022 - present"
+      - job: "GIS Software Developer"
+        company: "Alabama Power Company"
+        companyUrl: "https://www.alabamapower.com/"
+        date: "Jul 2023 - Present"
         featuredLink:
           enable: false
           name: "View the project"
@@ -162,7 +162,6 @@ params:
         content: |
           I focused on optimizing data processes for efficiency. Spearheading ETL workflow development, I reduced processing time by 40%. Leveraging SQL and Python, I improved efficiency by 50% in complex analysis. Expertise in Esri software enhanced geospatial decision-making. Overhauling MySQL and PostgreSQL systems tripled data handling efficiency. Automating GIS processes with Python boosted analysis speed. Leading change management, I achieved a 20% business performance boost.
           - ETL
-          - SQL
           - Python
           - Esri
           - SQL (TSQL)
