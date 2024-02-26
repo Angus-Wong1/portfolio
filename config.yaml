@@ -163,6 +163,7 @@ params:
         - Esri
         - SQL (TSQL)
         - Agile
+        
       - job: "Software Developer"
         company: "AGC Group"
         companyUrl: "https://agc.com"
