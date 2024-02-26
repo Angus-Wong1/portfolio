@@ -167,23 +167,6 @@ params:
           - Data Analytics (Matplotlib)
           - Machine Learning
 
-
-       - job: "Software Developer"
-        company: "AGC Group"
-        companyUrl: "https://agc.com"
-        date: "Sep 2022 - present"
-        featuredLink:
-          enable: false
-          name: "View the project"
-          url: "https://example.com"
-        content: |
-          At AGC, I implemented an effective PostgreSQL-based data management system, enhancing efficiency. My use of machine learning techniques facilitated significant business growth. With Python and Power BI, I improved data efficiency and promoted strategic decisions. My leadership boosted business performance and product value.
-
-          - Python (Numpy, Pandas, Pytorch,TensorFlow)
-          - Business Intelligence (PowerBI)
-          - Data Analytics (Matplotlib)
-          - Machine Learning
-
       - job: "Computer Science Tutor"
         company: "TutorMe"
         companyUrl: "https://Tutorme.com"
