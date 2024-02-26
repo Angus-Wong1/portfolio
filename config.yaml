@@ -160,8 +160,8 @@ params:
           name: "View the project"
           url: "https://example.com"
         content: |
-          I focused on optimizing data processes for efficiency. Spearheading ETL workflow development, I reduced processing time by 40%. Leveraging SQL and Python, I improved efficiency by 50% in complex analysis. Expertise in Esri software enhanced geospatial decision-making. Overhauling MySQL and PostgreSQL systems tripled data handling efficiency. Automating GIS processes with Python boosted analysis speed. Leading change management, I achieved a 20% business performance boost.
-          - ETL
+          I optimized data processes, reducing ETL processing time by 40% and improving efficiency in complex analysis by 50% using SQL and Python. My expertise in Esri software enhanced geospatial decision-making, and overhauling MySQL and PostgreSQL systems tripled data handling efficiency. Automating GIS processes with Python boosted analysis speed, and leading change management led to a 20% business performance boost.          - ETL
+         
           - Python
           - Esri
           - SQL (TSQL)
