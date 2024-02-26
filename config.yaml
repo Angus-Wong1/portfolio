@@ -134,7 +134,7 @@ params:
     enable: true
     title: "About Me"
     image: "/images/me.png"
-    content: |-
+    content: |
       I am a Computer Scientist with a focus on data analysis and software engineering, employing my skills to drive analytics, software development, and business growth. Currently, I am utilizing my capabilities at AGC Group, developing database systems and using machine learning algorithms for insightful data analysis.
     skills:
       enable: true
@@ -150,7 +150,6 @@ params:
   experience:
     enable: true
     # title: "Custom Name"
-    items:
       - job: "GIS Software Developer"
       company: "Alabama Power Company"
       companyUrl: "https://www.alabamapower.com/"
