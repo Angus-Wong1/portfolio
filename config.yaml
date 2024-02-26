@@ -149,6 +149,7 @@ params:
       # Experience
   experience:
     enable: true
+    items:
       - job: "GIS Software Developer"
       company: "Alabama Power Company"
       companyUrl: "https://www.alabamapower.com/"
