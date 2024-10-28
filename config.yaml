@@ -154,7 +154,7 @@ params:
       - job: "GIS Software Developer"
         company: "Alabama Power Company"
         companyUrl: "https://www.alabamapower.com/"
-        date: "Jul 2023 - Present"
+        date: "Sep 2023 - Present"
         featuredLink:
           enable: false
           name: "View the project"
